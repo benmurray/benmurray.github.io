@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ruddy Dog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2024-06-30T13:15:21-05:00</updated><entry><title>First Post</title><link href="/first-post.html" rel="alternate"></link><published>2024-06-30T13:15:21-05:00</published><updated>2024-06-30T13:15:21-05:00</updated><author><name>Ben Murray</name></author><id>tag:None,2024-06-30:/first-post.html</id><summary type="html">&lt;p class="first last"&gt;This was my first post&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;This is only the beginning, more to come...&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ruddy Dog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2024-06-30T13:15:21-05:00</updated><entry><title>First Post</title><link href="/first-post.html" rel="alternate"></link><published>2024-06-30T13:15:21-05:00</published><updated>2024-06-30T13:15:21-05:00</updated><author><name>Ben Murray</name></author><id>tag:None,2024-06-30:/first-post.html</id><summary type="html">&lt;p class="first last"&gt;First post, but also instructions for me ...&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;I think I am going to live out loud for a while. This is a pelican based website and here is how I
+update the theme (Flex)&lt;/p&gt;
+&lt;p&gt;I need to make changes in my clone of Flex. (I stored mine in ~/scratch/Flex) Then I need to run:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="gp"&gt;$&lt;/span&gt;pelican-themes&lt;span class="w"&gt; &lt;/span&gt;-r&lt;span class="w"&gt; &lt;/span&gt;Flex
+
+&lt;span class="gp"&gt;$&lt;/span&gt;pelican-themes&lt;span class="w"&gt; &lt;/span&gt;-i&lt;span class="w"&gt; &lt;/span&gt;~/scratch/Flex
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then I:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="gp"&gt;$&lt;/span&gt;make&lt;span class="w"&gt; &lt;/span&gt;html
+
+&lt;span class="gp"&gt;$&lt;/span&gt;make&lt;span class="w"&gt; &lt;/span&gt;github
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And that's it for now.&lt;/p&gt;
 </content><category term="misc"></category><category term="first"></category></entry></feed>

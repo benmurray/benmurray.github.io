@@ -37,13 +37,13 @@
  
 
 <meta name="author" content="Ben Murray" />
-<meta name="description" content="This was my first post" />
+<meta name="description" content="First post, but also instructions for me ..." />
 <meta name="keywords" content="first">
 
 
   <meta property="og:site_name" content="Ruddy Dog"/>
   <meta property="og:title" content="First Post"/>
-  <meta property="og:description" content="This was my first post"/>
+  <meta property="og:description" content="First post, but also instructions for me ..."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:url" content="/first-post.html"/>
   <meta property="og:type" content="article"/>
@@ -78,33 +78,34 @@
 
 
           <li>
-            <a target="_self" href="https://getpelican.com/" >Pelican</a>
+            <a target="_self" href="/" >Home</a>
           </li>
           <li>
             <a target="_self" href="https://www.python.org/" >Python.org</a>
-          </li>
-          <li>
-            <a target="_self" href="https://palletsprojects.com/p/jinja/" >Jinja2</a>
-          </li>
-          <li>
-            <a target="_self" href="#" >You can modify those links in your config file</a>
           </li>
       </ul>
     </nav>
 
     <ul class="social">
       <li>
-        <a class="sc-You can add links in your config file"
-           href="#"
+        <a class="sc-linkedin"
+           href="https://www.linkedin.com/in/bemur"
            target="_blank">
-          <i class="fa-brands fa-You can add links in your config file"></i>
+          <i class="fa-brands fa-linkedin"></i>
         </a>
       </li>
       <li>
-        <a class="sc-Another social link"
-           href="#"
+        <a class="sc-twitter"
+           href="https://x.com/benmurray"
            target="_blank">
-          <i class="fa-brands fa-Another social link"></i>
+          <i class="fa-brands fa-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-github"
+           href="https://github.com/benmurray"
+           target="_blank">
+          <i class="fa-brands fa-github"></i>
         </a>
       </li>
     </ul>
@@ -126,7 +127,19 @@
 
 
   <div>
-    <p>This is only the beginning, more to come...</p>
+    <p>I think I am going to live out loud for a while. This is a pelican based website and here is how I
+update the theme (Flex)</p>
+<p>I need to make changes in my clone of Flex. (I stored mine in ~/scratch/Flex) Then I need to run:</p>
+<div class="highlight"><pre><span></span><span class="gp">$</span>pelican-themes<span class="w"> </span>-r<span class="w"> </span>Flex
+
+<span class="gp">$</span>pelican-themes<span class="w"> </span>-i<span class="w"> </span>~/scratch/Flex
+</pre></div>
+<p>Then I:</p>
+<div class="highlight"><pre><span></span><span class="gp">$</span>make<span class="w"> </span>html
+
+<span class="gp">$</span>make<span class="w"> </span>github
+</pre></div>
+<p>And that's it for now.</p>
 
   </div>
   <div class="tag-cloud">
@@ -145,7 +158,7 @@
 <footer>
 <p>&copy;  </p>
 <p>
-Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using a modified <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
 </p></footer>  </main>
 
 <script type="application/ld+json">
