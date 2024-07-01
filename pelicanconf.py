@@ -1,6 +1,9 @@
 AUTHOR = 'Ben Murray'
 SITENAME = 'Ruddy Dog'
 SITEURL = ""
+SITELOGO = "/images/profile.png"
+
+THEME = "Flex"
 
 PATH = "content"
 
