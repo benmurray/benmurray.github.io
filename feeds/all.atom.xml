@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Ruddy Dog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2024-08-28T11:12:52-05:00</updated><entry><title>Mary James Turns 16!</title><link href="/mj-turns-16.html" rel="alternate"></link><published>2024-08-28T11:12:52-05:00</published><updated>2024-08-28T11:12:52-05:00</updated><author><name>Ben Murray</name></author><id>tag:None,2024-08-28:/mj-turns-16.html</id><summary type="html">&lt;p class="first last"&gt;Mary James is now 16!&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;16 years ago Mary James Murray made Erin and I parents! We are proud of the person she has become,
 how she is doing in school, and how she conducts herself ... in public at least!&lt;/p&gt;
-&lt;p&gt;![MJ at the DMV after passing her driver's test]({static}/images/mj16_dmv.jpg)&lt;/p&gt;
-&lt;p&gt;![MJ at pulled up to Papa's to say hello on the way to school]({static}/images/mj16_car.jpg)&lt;/p&gt;
+&lt;img alt="MJ at the DMV after passing her driver's test." src="/images/mj16_dmv.jpg" /&gt;
+&lt;img alt="MJ at pulled up to Papa's to say hello on the way to school" src="/images/mj16_car.jpg" /&gt;
 </content><category term="misc"></category><category term="mj"></category><category term="birthday"></category><category term="car"></category></entry><entry><title>First Post</title><link href="/first-post.html" rel="alternate"></link><published>2024-06-30T13:15:21-05:00</published><updated>2024-06-30T13:15:21-05:00</updated><author><name>Ben Murray</name></author><id>tag:None,2024-06-30:/first-post.html</id><summary type="html">&lt;p class="first last"&gt;First post, but also instructions for me ...&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;I think I am going to live out loud for a while. This is a pelican based website and here is how I
 update the theme (Flex)&lt;/p&gt;
