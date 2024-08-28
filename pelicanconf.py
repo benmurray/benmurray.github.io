@@ -20,16 +20,15 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
+    ("Home", "/"),
     ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("linkedin", "https://www.linkedin.com/in/bemur"),
+    ("twitter", "https://x.com/benmurray"),
+    ("github", "https://github.com/benmurray"),
 )
 
 DEFAULT_PAGINATION = 10
